@@ -1,0 +1,4 @@
+q!
+module github.com/deepakchp/learn-go/go-rest-api
+
+go 1.21.0
